@@ -1,0 +1,3 @@
+This application takes a youtube channel url (i.e. https://www.youtube.com/user/HunterGreer) and parses writes out the channel name, country, subscribers, videos uploaded last month, video views last month, video likes last month, video dislikes last month, video comments last month and total video minutes last month.
+
+This application requires a Youtube Data API (https://developers.google.com/youtube/v3/) to run
